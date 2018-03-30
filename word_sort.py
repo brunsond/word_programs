@@ -1,5 +1,5 @@
 # Takes in a file words.txt with words all in one line and separated by commas and creates
-# file words_sorted.txt the words listed in alphabetical order.
+# file words_sorted.txt-the words listed in alphabetical order.
 # Runs as is with python3 interpreter.
 
 # Written by Douglas Brunson (2018)
